@@ -96,29 +96,34 @@ switch 2 is connected to one end of the lamp holder.
 
 **CIRCUIT DIAGRAM:** 
 
+![alt text](<EXP 3 a.png>)
 
+![alt text](<EXP 3 b.png>)
 
-
+![alt text](<WhatsApp Image 2026-03-16 at 11.16.38.jpeg>)
 
 **Tabulation: 1**   
 
+![alt text](<WhatsApp Image 2026-03-16 at 11.17.16.jpeg>)
 
 
 
 **Cross connection:**
 
+![alt text](<EXP 3 c.png>)
 
+![alt text](<EXP 3 d.png>)
 
 
 **CIRCUIT DIAGRAM:**
 
-
+![alt text](<WhatsApp Image 2026-03-16 at 11.16.39.jpeg>)
 
 
 
 **Tabulation:2**
 
-
+![alt text](<WhatsApp Image 2026-03-16 at 11.17.16 (1).jpeg>)
 
 
 
